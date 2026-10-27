@@ -327,7 +327,6 @@ Banco de dados
   <img src="./docs/images/cadastro-funcionando.png" alt="Cadastro de pessoa funcionando" width="800">
 </p>
 
-> Adicione as capturas de tela nos caminhos indicados acima antes de publicar o README.
 
 ---
 
