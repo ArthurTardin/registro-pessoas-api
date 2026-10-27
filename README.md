@@ -318,7 +318,7 @@ Banco de dados
 ### Formulário
 
 <p align="center">
-  <img src="./docs/images/formulario.png" alt="Formulário de cadastro de pessoa" width="800">
+  <img src="./docs/images/formulario.jpeg" alt="Formulário de cadastro de pessoa" width="800">
 </p>
 
 ### Cadastro funcionando
